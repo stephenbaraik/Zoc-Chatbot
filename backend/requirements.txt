@@ -9,3 +9,4 @@ pydantic
 sqlmodel
 langchain-chroma
 requests
+pysqlite3-binary
